@@ -1,0 +1,12 @@
+h1,p,a{
+    text-align: center;
+}
+p,a{
+    font-size: 30px;
+}
+div{
+    border: 4px solid gray;
+    border-radius: 50px;
+    background-color: orange;
+}
+
